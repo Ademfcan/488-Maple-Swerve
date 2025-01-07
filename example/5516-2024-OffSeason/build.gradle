@@ -91,7 +91,6 @@ compileJava.finalizedBy checkAkitInstall
 // Defining my dependencies. In this case, WPILib (+ friends), and vendor libraries.
 // Also defines JUnit 4.
 dependencies {
-    implementation files('res/XTABLES.jar')
     
     implementation wpi.java.deps.wpilib()
     implementation wpi.java.vendor.java()
