@@ -8,7 +8,6 @@ import edu.wpi.first.math.geometry.Translation2d;
 import edu.wpi.first.math.geometry.Translation3d;
 import frc.robot.utils.CompetitionFieldUtils.Objects.Crescendo2024FieldObjects;
 import frc.robot.utils.CompetitionFieldUtils.Objects.Crescendo2024FieldObjects.NoteOnFieldSimulated;
-import frc.robot.subsystems.objectdetection.LocalhostCommunicator;
 
 import java.util.List;
 import java.util.function.Supplier;
